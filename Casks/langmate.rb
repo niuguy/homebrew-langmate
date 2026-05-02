@@ -1,6 +1,6 @@
 cask "langmate" do
-  version "1.0.3"
-  sha256 "d1268d5366b6ad7a5dd680d16cc64b1f30ee6d2d5c35081cfd9abe4162e86c85"
+  version "1.0.4"
+  sha256 "95c9ca005023fd165e623c43b446f7e7b1973fdd7d6761f83463b5d3f374b2f1"
 
   url "https://github.com/niuguy/langmate/releases/download/v#{version}/LangMate-#{version}.dmg"
   name "LangMate"
